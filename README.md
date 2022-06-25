@@ -1,6 +1,6 @@
 # React Context State Management + useReducer hook + localStorage + Tailwind CSS
 
-Thank you for checking out :)
+Ecommerce Cart - Add to cart - remove cart
 
 ## Getting Started with Create React App
 
