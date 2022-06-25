@@ -1,5 +1,7 @@
 #React Context State Management + useReducer hook + localStorage + Tailwind CSS
 
+Thank you for checking out :)
+
 ## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
